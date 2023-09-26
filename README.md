@@ -42,7 +42,7 @@ spring.jpa.properties.hibernate.dialect= org.hibernate.dialect.PostgreSQLDialect
 spring.jpa.hibernate.ddl-auto= update
 
 # App Properties
-bezkoder.app.jwtSecret= bezKoderSecretKey
+bezkoder.app.jwtSecret= uniqtech
 bezkoder.app.jwtExpirationMs= 86400000
 ```
 - For MySQL
